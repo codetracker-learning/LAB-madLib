@@ -30,3 +30,8 @@ const libArray = [
   "noun"
 ];
 ```
+
+## Example Form and Results
+
+![Screen Shot 2022-04-10 at 2 02 53 PM](https://user-images.githubusercontent.com/29741570/162635731-2a5e3912-d3fc-476c-9836-505a23117f3f.png)
+![Screen Shot 2022-04-10 at 2 03 34 PM](https://user-images.githubusercontent.com/29741570/162635742-b0f4f875-6206-4af9-9b35-1a50450ffeee.png)
