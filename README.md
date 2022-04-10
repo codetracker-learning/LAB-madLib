@@ -10,10 +10,12 @@ In the book War of the NOUN (PLURAL) , the main character is an anonymous OCCUPA
 `
 
 ## Acceptance Criteria
+- Implement Bootstrap Styles
 - A form that accepts user input
 - On submit of the form, remove the form from the DOM and show the riddle with the user input in **BOLD**
 - On the riddle view, there is a button that allows the user to try again.
 - On press of the try again button, the riddle is removed from the DOM and the form is on the DOM
+- After completing all functionality, add your own style to the app.
 
 ## The Data
 You can use any data structure for your data. Here is an example of the data in an array.
